@@ -1,0 +1,1 @@
+from .pdfInvoices import generate
